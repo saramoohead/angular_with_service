@@ -11,7 +11,7 @@ githubUserSearch.controller('GitUserSearchController', [function() {
                     "html_url": "https://github.com/tansaku"
                 },
                 {
-                    "login": "stephenlloyd",
+                    "login": "stephenbob",
                     "avatar_url": "https://avatars.githubusercontent.com/u/196474?v=3",
                     "html_url": "https://github.com/stephenlloyd"
                 }
